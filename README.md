@@ -1,4 +1,4 @@
-# "Sombras de una asociación mágica" Novela visual en Español latino
+# *"Sombras de LOSIX"* Novela visual en Español latino
 
 ## ⚠ ADVERTENCIA DE CONTENIDO ⚠
 
@@ -26,7 +26,7 @@ Al ser una historia en construcción desde 2021 y suceder en un mundo ficticio y
 
 *«~~Despierta… despierta… no te dejes llevar por **ellos**…~~»*
 
-***LA ASOCIACIÓN***
+***LOSIX***
 
 *Apareces en un lugar fuera de los mapas de la Tierra, sin recuerdos de tu identidad, solo tienes tu nombre como recuerdo de tu pasado.*  
 *Junto a ti, hay ocho chicos más de distintas partes del mundo:*  
@@ -39,8 +39,10 @@ Al ser una historia en construcción desde 2021 y suceder en un mundo ficticio y
 *10-02, Naira Athumani, una tanzana que fue asignada para contener a 10-01.*  
 *Y, finalmente, el misterioso 10-01, Jacob Sanders, que está en un cuarto distinto al resto por ser considerado "peligroso".*  
 *Todos tienen un objetivo común: huir.*  
-*Al ser el nuevo en las instalaciones, y tras los rumores de un traidor entre los que buscan la libertad, no hay en quién confiar ¿Qué harás? ¿Qué elegirás entre investigar tu pasado…*  
-*o huir hacia un futuro nuevo?*
+*Al ser el nuevo en las instalaciones, y tras los rumores de un traidor entre los que buscan la libertad, no hay en quién confiar ¿Qué harás?
+
+> ¿Qué elegirás entre investigar tu pasado…*  
+> *o huir hacia un futuro nuevo?*  
 
 ## Características de este juego
 
